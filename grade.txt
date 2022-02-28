@@ -1,0 +1,1 @@
+print ("My grade will be at least 87")
